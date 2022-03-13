@@ -1,8 +1,8 @@
-# PROJECTS
+# PROJECTS & ACHIEVEMENTS
 
- ### MY CERTIFICATIONS & PROJECTS
+ ### PROJECTS 
 
  - **[E-Commerce-Predict-the-lowest-price-of-Items](https://github.com/Itspravin08/E-Commerce-Predict-the-lowest-price-of-Items#E-Commerce-Predict-the-lowest-price-of-Items)**
- - **[Machine_Learning](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Machine%20Learning%20Certificate.pdf#Machine_Learning)**
- - **[Data_Structures ](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Data%20Structures%20in%20Python%20Certificate.pdf#Data_Structures)**
- - **[Object_Oriented_Programming](https://github.com/Itspravin08/MY-CERTIFICATIONS/blob/main/Object%20Oriented%20Programming%20Certificate.pdf#Object_Oriented_Programming)   
+ - **[Predict-The-Defense-Ready-Condition-Levels](https://github.com/Itspravin08/Predict-The-Defense-Ready-Condition-Levels/blob/main/Defense_Ready_Condition_Levels_Prediction.ipynb#Predict-The-Defense-Ready-Condition-Levels)**
+ - **[Identify_the_snake_breed ](https://github.com/Itspravin08/Identify-the-snake-breed-/blob/main/Identify_the_snake_breed.ipynb#Identify_the_snake_breed)**
+ - **[Predict-The-Employee-Burn-Out-Rate](https://github.com/Itspravin08/Predict-The-Employee-Burn-Out-Rate/blob/main/Employee_Burn_Rate_Prediction.ipynb#Predict-The-Employee-Burn-Out-Rate)   
