@@ -25,4 +25,6 @@
  - **[Red-Wine-Quality-Prediction](https://github.com/Itspravin08/Red-Wine-Quality-Prediction-using-Machine-Learning#/Red_Wine_Quality_Prediction)**
 
 - **[Friendship_goals](https://github.com/Itspravin08/Friendship-goals/blob/main/Friendship_goals.ipynb#Friendship_goals)**
+- **[Zomato-stocks-Analysis-Price-prediction](https://github.com/Itspravin08/Zomato-stocks-Analysis-Price-prediction#Zomato-stocks-Analysis-Price-prediction)**
+
 
