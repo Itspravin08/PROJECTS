@@ -1,6 +1,7 @@
 # PROJECTS & ACHIEVEMENTS
 
  ### PROJECTS LINKS
+  - **[Real Time Face Detection And Recognition](https://github.com/Itspravin08/Real-Time-Face-Detection-Recognition-#Real_Time_Face_Detection_And_Recognition)**
   - **[Emotion_detection_with_CNN](https://github.com/Itspravin08/Emotion_detection_Using_CNN#Emotion_detection_with_CNN)**
   - **[Automatic Number Plate Recognition](https://github.com/Itspravin08/Automatic-Number-Plate-Recognition-Model/blob/main/Car_number_recognition_system.ipynb#Automatic_Number_Plate_Recognition)**
   - **[Speech Recognition](https://github.com/Itspravin08/Speech-Recognition#Speech_Recognition)**
